@@ -978,7 +978,7 @@ pre .javascript .function {
   border-bottom: none;
   color: var(--brand-color);
   display: inline-block;
-  line-height: 1.375em;
+  line-height: 2em;
   padding: 0 40px;
   position: relative;
 }
@@ -986,8 +986,8 @@ pre .javascript .function {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: 'Lobster Two', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1.375em;
+  font-family: 'Georgia', 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 2em;
   font-weight: normal;
   margin: 0;
 }
@@ -1119,7 +1119,7 @@ pre .javascript .function {
   }
 }
 .book-mark-link::before {
-  color: #222;
+  color: #FF6347;
   content: '\f02e';
   font-size: 32px;
   line-height: 1;
@@ -1254,7 +1254,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffffc6;
+  background: #33282d;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
