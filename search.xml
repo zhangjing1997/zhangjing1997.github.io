@@ -1,51 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/04/15/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<a id="more"></a>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-<h2 id="test-math-equations">Test Math Equations</h2>
-<p><span class="math display">\[
-\begin{equation} \label{eq1}
-e=mc^2
-\end{equation}
-\]</span></p>
-<p>The famous matter-energy equation <span class="math inline">\(\eqref{eq1}\)</span> proposed by Einstein...</p>
-<p><span class="math display">\[
-\begin{equation} \label{eq2}
-\begin{aligned}
-a &amp;= b + c \\
-  &amp;= d + e + f + g \\
-  &amp;= h + i
-\end{aligned}
-\end{equation}
-\]</span></p>
-<p>Equation <span class="math inline">\(\eqref{eq2}\)</span> is a multi-line equation.</p>
-<p><span class="math display">\[
-\begin{align}
-a &amp;= b + c \label{eq3} \\
-x &amp;= yz \label{eq4}\\
-l &amp;= m - n \label{eq5}
-\end{align}
-\]</span></p>
-<p>There are three aligned equations: equation <span class="math inline">\(\eqref{eq3}\)</span>, equation <span class="math inline">\(\eqref{eq4}\)</span> and equation <span class="math inline">\(\eqref{eq5}\)</span>.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>Duke Master Experience</title>
     <url>/2020/04/15/master@duke/</url>
     <content><![CDATA[<p>Here is a simple overview of my study and life experience at Duke University, during which I've been pursuing my Master degree. Two Years is actually very short. Lots of regret though.</p>
@@ -312,5 +267,50 @@ l &amp;= m - n \label{eq5}
         <tag>data structure</tag>
         <tag>BFS</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/04/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<h2 id="test-math-equations">Test Math Equations</h2>
+<p><span class="math display">\[
+\begin{equation} \label{eq1}
+e=mc^2
+\end{equation}
+\]</span></p>
+<p>The famous matter-energy equation <span class="math inline">\(\eqref{eq1}\)</span> proposed by Einstein...</p>
+<p><span class="math display">\[
+\begin{equation} \label{eq2}
+\begin{aligned}
+a &amp;= b + c \\
+  &amp;= d + e + f + g \\
+  &amp;= h + i
+\end{aligned}
+\end{equation}
+\]</span></p>
+<p>Equation <span class="math inline">\(\eqref{eq2}\)</span> is a multi-line equation.</p>
+<p><span class="math display">\[
+\begin{align}
+a &amp;= b + c \label{eq3} \\
+x &amp;= yz \label{eq4}\\
+l &amp;= m - n \label{eq5}
+\end{align}
+\]</span></p>
+<p>There are three aligned equations: equation <span class="math inline">\(\eqref{eq3}\)</span>, equation <span class="math inline">\(\eqref{eq4}\)</span> and equation <span class="math inline">\(\eqref{eq5}\)</span>.</p>
+]]></content>
   </entry>
 </search>
