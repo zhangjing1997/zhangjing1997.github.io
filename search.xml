@@ -1,91 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Duke Master Experience</title>
-    <url>/2020/04/15/master@duke/</url>
-    <content><![CDATA[<p>Here is a simple overview of my study and life experience at Duke University, during which I've been pursuing my Master degree. Two Years is actually very short. Lots of regret though.</p>
-<a id="more"></a>
-<h2 id="a-bit-background">A bit Background</h2>
-<p>I finished my undergraduate study at Sun Yat-Sen University in Guangzhou (China) in 2018 and got admitted into Duke luckily. - Undergraduate Major: Energy and Dynamics Engineering - Master Major: Mechanical Engieering (Robotics Track)</p>
-<figure>
-<img src="https://live.staticflickr.com/65535/49781871483_7d80819d0e_o.jpg" alt="" /><figcaption>duke chapel from Our State Magazine</figcaption>
-</figure>
-<h2 id="timeline">Timeline</h2>
-<h3 id="fall-aug---dec">2018 Fall (Aug - Dec)</h3>
-<ul>
-<li>ME627 - Linear Systems Theory (core)</li>
-<li>ECE551 - Programming, Data Structures, and Algorithms in C++ (core)</li>
-<li>MATH541 - Applied Stochastic Process (Math)</li>
-</ul>
-<h3 id="winter-vacation">2018 Winter Vacation</h3>
-<ul>
-<li>Move to live with a local christian church</li>
-<li>One-Week Trip at LA with Yellow</li>
-<li>One-Week Deep Learning Course (like a very short-term workshop)</li>
-</ul>
-<h3 id="spring-jan---may">2019 Spring (Jan - May)</h3>
-<ul>
-<li>CS527 - Computer Vision (core)</li>
-<li>STA561 - Probabilistic Machine Learning (elective)</li>
-<li>ME555: Advanced Robotics System Design (core)</li>
-<li>Summer Internship Searching</li>
-</ul>
-<h3 id="summer-vacation">2019 Summer Vacation</h3>
-<ul>
-<li>Summer Internship @ Aqueti in Kunshan, nearby DKU</li>
-</ul>
-<h3 id="fall-aug---dec-1">2019 Fall (Aug - Dec)</h3>
-<ul>
-<li>ECE590: Smart Camera (elective)</li>
-<li>ECE588: Image Video Procession (elective)</li>
-<li>CS671: Machine Learning (core)</li>
-<li>Indepdent Study with Dr. David Brady (elective)</li>
-<li>Full-time Job Searching</li>
-</ul>
-<h3 id="spring-jan---now">2020 Spring (Jan - NOW)</h3>
-<ul>
-<li>Continue Full-time Job Searching</li>
-<li>Graduate Poster-based Project</li>
-<li>Visa Application for My Potential Career</li>
-<li>Stay at Home due to COVID-19</li>
-</ul>
-<h2 id="what-i-did-well">What I did well</h2>
-<ul>
-<li>overcame the gap from traditional engineering that I don't like to software-related engineering field that I think I can do well</li>
-<li>adapted well into living a western-style life</li>
-<li>met some nice friends</li>
-<li>well.... (I'll fill up later)</li>
-</ul>
-<h2 id="what-i-did-not-well">What I did not well</h2>
-<ul>
-<li>did not prepare well or grab enough information before arriving at Duke</li>
-<li>got lagged behind while compared with other peers</li>
-<li>got upset easily in front of interview failures</li>
-</ul>
-<h2 id="goals-in-april">Goals in April</h2>
-<ul>
-<li>maintain and improve my personal website apperance and functionalities</li>
-<li>udacity - becoming MLE</li>
-<li>udacity - a/b testing</li>
-<li>coursera nlp</li>
-<li>stanford nlp cs224</li>
-<li>spark projects review</li>
-<li>hadoop projects review</li>
-<li>九章算法强化班</li>
-<li>九章系统设计班</li>
-</ul>
-<p><strong>Let's see what I'll be up to in May......</strong></p>
-<h2 id="some-resume-experience-backup">Some Resume Experience Backup</h2>
-<ul>
-<li>Connected Vehicles on Traditional Traffic Flow (Feb/2018 - May/2018)
-<ul>
-<li><strong>Model Parameters Calibration:</strong> Calibrated Intelligent Driver Model and Cooperative Intelligent Driver Model that characterizes the car-following dynamics of Human-driven Vehicle (HV) and Connected Vehicle (CV) respectively.</li>
-<li><strong>Numeric Simulation &amp; Parameter Tuning</strong>: Utilized Matlab to numerically simulate dynamics of HVs and CVs running on a one-way straight road; Tuned parameters related to cooperative strategy among CVs to maximize the positive effects.</li>
-</ul></li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2020/04/15/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -129,6 +44,315 @@ l &amp;= m - n \label{eq5}
 \]</span></p>
 <p>There are three aligned equations: equation <span class="math inline">\(\eqref{eq3}\)</span>, equation <span class="math inline">\(\eqref{eq4}\)</span> and equation <span class="math inline">\(\eqref{eq5}\)</span>.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Coding Experience | Job Searching</title>
+    <url>/2020/04/16/00_%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%B3%95%20General/</url>
+    <content><![CDATA[<p>本文主要讲解找工过程中的coding practice/interview的一些经验。</p>
+<a id="more"></a>
+<h2 id="一些general的建议">一些General的建议:</h2>
+<ul>
+<li>公司通过算法题面试主要是希望考察大家的程序实现能力。</li>
+<li>Interview过程中：先解释再写（也就是先和面试官确认要怎么解），写完再解释。</li>
+<li>有些可以通过helper函数来简洁代码阅读过程的操作是值得尝试的。这样便于面试官理解。</li>
+<li>面试不一定会要求你用最优复杂度的算法来解决问题。（尽量做到各种解法都了解）。</li>
+<li>想要做到 Bug Free 最重要的是优化你的 <strong>Coding Style</strong> <strong>技巧:子函数 + 好的命名风格</strong></li>
+<li>带名字的算法都不考的，就不要花时间去准备了。</li>
+<li>主要练习：<strong>medium难度的题</strong>。</li>
+<li><strong>不要花时间在Greedy算法</strong>。面试基本不会考，因为等同于考智力题或者是背诵题。一个面试官想要自己凭空创造出一个面试题是使用贪心算法的，是非常困难的。既然如此，如果面试中被问到了贪心算法，那么一定是一道经典的贪心问题，这类问题，我们可以称之为背诵题。因为大多数同学（除了智商很高，或者有算法竞赛经历的那一批），是不可能在面试的时候想得出解法的。贪心法，他不是“一个算法”，而是“一类算法”的统称，他更多的是一种高屋建瓴的算法思想，而不是具体实施的算法步骤。所以基本的情况就是，你在题目A里用了某个贪心算法解决了这个问题，然后这个题中用到的贪心法，永远也找不到第二个题用类似的方法来解决。
+<ul>
+<li>当然，面试中也不是说完全不可能碰到贪心算法，只是几率非常的小，你只需要<strong>“背诵”如下的一些几个题的贪心解法</strong>就了：<a href="http://www.jiuzhang.com/qa/2099/" target="_blank" rel="noopener">http://www.jiuzhang.com/qa/2099/</a></li>
+</ul></li>
+</ul>
+<h2 id="与面试官的沟通技巧">与面试官的沟通技巧:</h2>
+<ul>
+<li>沟通的基本原则是什么?
+<ul>
+<li>不要把面试官当作你的 Interviewer，而要当作你的 Co-worker</li>
+<li><strong>你可以问他索要提示，但是尽可能的不要问太多提示</strong>。正如工作中，你可以问你的同事寻求帮助，但是你问太多，问得事无巨细人家也很烦。</li>
+<li><strong>沟通之后再动手</strong>。正如工作中，你的同事和你合作的时候，不会喜欢你一声不吭的先按照自己的想法把代码写了。</li>
+<li><strong>意见不合别吵架，先认可对方的想法</strong>。正如工作中，你和同事讨论一个问题的不同解决方案的时候，最好先说，我觉得你的方法挺好的，然后再说，不过我觉得有个问题。</li>
+</ul></li>
+<li>写代码的时候该如何沟通？更好的办法是：
+<ul>
+<li>首先和面试官进行算法和实现方式上的沟通，从面试官那里得到确认你的方法是OK的，写出来是可以过的。</li>
+<li>开始写代码时，只对一些可能对方不太看得懂的做解释。如果他正在玩手机没看你，就不用理他赶紧写完。</li>
+<li>写完之后再一股脑给他解释代码。</li>
+</ul></li>
+</ul>
+<p><img src="https://live.staticflickr.com/65535/49782371946_b269077258_o.png" style="zoom:25%"></p>
+<p><img src="https://live.staticflickr.com/65535/49783076016_c5da3c91ea_o.png" style="zoom:30%"></p>
+<p><img src="https://live.staticflickr.com/65535/49783130731_f32d4897cd_o.png" style="zoom:30%"></p>
+<h2 id="如何做笔记">如何做笔记？</h2>
+<ul>
+<li>算法
+<ul>
+<li>用什么算法</li>
+<li>为什么用这个算法(哪些条件)</li>
+</ul></li>
+<li>代码实现
+<ul>
+<li>有什么要注意的地方</li>
+<li>有什么可优化的地方</li>
+</ul></li>
+<li>时空复杂度分析(主要是time complexity)</li>
+<li>相关的题目有哪些做过的(跟哪个题比较像)</li>
+</ul>
+<h2 id="debug的基本步骤">DEBUG的基本步骤</h2>
+<ol type="1">
+<li><strong>重新读一遍程序 + 在程序的若干位置输出一些中间结果</strong>。</li>
+<li><strong>设置special test case</strong>：找到一个非常小非常小的可以让你的程序出错的数据。比如空数组，空串，1-5个数的数组，一个字符的字符串。</li>
+<li>定位了出错的部分之后，查看自己的程序该部分的逻辑是否有错。如果无法通过肉眼看出错误的部分，就<strong>一步步“模拟执行”程序</strong>，找出错误。</li>
+</ol>
+<h2 id="代码真的不是写出来就可以过-好的代码质量包括">代码真的不是写出来就可以过。 好的代码质量包括:</h2>
+<ol type="1">
+<li>Bug Free</li>
+<li>好的代码风格(Coding Style)，包括变量名命名规范有意义，合理的使用空格，善用空行。</li>
+<li>容易让人读懂的逻辑。要把复杂的事情用简单的方式，别把简单的事情写复杂了。</li>
+<li>没有冗余代码</li>
+<li>有边界检测和异常处理 (corner case)</li>
+</ol>
+<h2 id="几个技巧快速提高代码风格">几个技巧快速提高代码风格</h2>
+<ol type="1">
+<li>严格按照要求进行程序缩进 - format要合理</li>
+<li><strong>二元运算符(作用两个变量的运算符)</strong> 左右两边加空格 (比如：四则运算)</li>
+<li><strong>if, for 和括号之间</strong>加空格；即使 if / for 语句内部只有一句话，也要加上花括号(这条看情况吧)。</li>
+<li><strong>变量名使用有意义的英文名</strong>，不要用a,b,c,s1,s2</li>
+<li><strong>区分不同的<code>逻辑块</code>，逻辑块之间用空行隔开，简要注释每个部分做的事情</strong></li>
+<li><strong>多用 Helper Function 或子函数</strong>，不要所有程序都写在一个大函数里</li>
+</ol>
+<h2 id="评测何时做好面试的准备三个维度">评测何时做好面试的准备：(三个维度)</h2>
+<ol type="1">
+<li>算法能力</li>
+<li>Bug Free能力(每道题的平均提交次数)</li>
+<li>题量(250-300)</li>
+</ol>
+<h2 id="刷题timeline">刷题TimeLine</h2>
+<ul>
+<li>按照各topic的建议刷题数，刷够</li>
+<li>leetcode top interview</li>
+<li>各大厂的leetcode题库</li>
+</ul>
+<p><strong>Note: 面试前专门去各大网站（比如 glassdor，一亩三分地，等等），搜索近期或以往的面经，这是挺重要的一个准备环节，因为至少可以了解到该公司的出题习惯和风格。</strong></p>
+<h2 id="stl常用函数-纠错笔记-基本知识整理">STL常用函数 | 纠错笔记 | 基本知识整理</h2>
+<h3 id="memory-栈区stack和堆区heap的区别">Memory: 栈区(stack)和堆区(heap)的区别</h3>
+<ul>
+<li><strong>栈区（stack）</strong>：由编译器自动分配释放，存放函数的参数值，局部变量的值等，其操作方式类似于数据结构的栈。</li>
+<li><strong>堆区（heap）</strong>：一般是由程序员分配释放（比如allocate），若程序员不释放的话，程序结束时可能由OS回收，值得注意的是他与数据结构的堆是两回事，分配方式倒是类似于数据结构的链表。</li>
+<li><strong>全局区（static）</strong>：也叫静态数据内存空间，存储全局变量和静态变量，全局变量和静态变量的存储是放一块的，初始化的全局变量和静态变量放一块区域，没有初始化的在相邻的另一块区域，程序结束后由系统释放。</li>
+<li><strong>文字常量区</strong>：常量字符串(string)就是放在这里，程序结束后由系统释放。</li>
+<li><strong>程序代码区</strong>：存放函数体的二进制代码。</li>
+</ul>
+<h3 id="常用c-data-types">常用C++ Data types</h3>
+<p>All <a href="https://www.geeksforgeeks.org/variables-and-keywords-in-c/" target="_blank" rel="noopener">variables</a> use data-type during declaration to restrict the type of data to be stored. Therefore, we can say that data types are used to tell the variables the type of data it can store. Whenever a variable is defined in C++, the compiler allocates some memory for that variable based on the data-type with which it is declared. Every data type requires different amount of memory. - <strong>primitive data type</strong>: built-in or predefined data types and can be used directly by the user to declare variables 1. integer 2. character 3. boolean 4. floating point &amp; double floating point 5. valueness or void 6. Wide character - <strong>Abstract or user defined data types</strong>: defined by user itself. Like, defining <strong>a class in C++ or a structure</strong>. - <strong>Datatype Modifiers（类型修饰）</strong>: used with the built-in data types to modify the length of data that a particular data type can hold. Data type modifiers available in C++ are: - signed - unsigned - short - long <strong>1 byte = 8 bits; signed将range缩小一倍。== ==unsigned int: 0 ~ 2^32-1</strong> - 常见数据类型的范围： - char: <code>0 ~ 2^8 - 1(255)</code> - int: <code>-2147483648(-2^31)~2147483647(2^31 - 1)</code> - short int: <code>-32768(-2^15) ~ 32767(2^15 - 1)</code></p>
+<pre><code>|     Data Type     | sizeof()               |
+| :---------------: | ---------------------- |
+|       char        | 1 byte = 8bits         |
+|        int        | 4 bytes = 32bits       |
+|     short int     | 2 bytes = 16bits       |
+|     long int      | 8 bytes = 64bits       |
+|  signed long int  | 8 bytes (范围正负平摊) |
+| unsigned long int | 8bytes (只有正数一边)  |
+|       float       | 4 bytes                |
+|      double       | 8 bytes                |
+|      wchar_t      | 4 bytes                |</code></pre>
+<h3 id="null-与-空字符串的区别">null 与 空字符串的区别</h3>
+<ul>
+<li><strong>null 表示空对象</strong>: 类似于python里面的<code>s = None</code>; Java里面的<code>String s = null</code>; C++不能直接定义一个空对象，但是可以将一个引用绑定在一个nullptr上： <code>string &amp;p = *static_cast&lt;string *&gt;(nullptr);</code> 以上代码定义了一个空对象，我们不能对这个对象做任何操作，说明我们只是定义了变量，只是在==栈内存==中标记了这个变量的存在，但是并没有实际分配任何任何==堆内存==给这个变量，变量没有指向的地址，是个空对象。</li>
+<li>C++:<code>string s;</code> 这个声明中，s不是空对象，是指向实实在在的堆内存的。只是这段内存中没有数据而已，s此时是个空串。我们可以对s做所有字符串的操作。例如取长度、拼接、替换、查找字符等。所以:
+<ul>
+<li>C++里就不用额外考虑为null的情况，一般就额外考虑empty string的情况。</li>
+</ul></li>
+<li>String <code>s1 = ""</code>; means that the empty String is assigned to s1. In this case, <code>s1.length()</code> is the same as <code>"".length()</code>, which will yield <code>0</code> as expected.</li>
+<li>String <code>s2 = null;</code> means that <code>null</code> or "no value at all" is assigned to <code>s2</code>. So this one, <code>s2.length()</code> is the same as <code>null.length()</code>, which will yield a <code>NullPointerException</code> as you can't call methods on <code>null</code> variables (pointers, sort of) in Java.==</li>
+</ul>
+<h3 id="coding-style">Coding Style</h3>
+<ol type="1">
+<li><p>一种<strong>减少代码identation</strong>的书写形式</p>
+<p>当for里面需要套if判断的时候，采用 <strong>第二种写法更节省indention</strong>，更显得简洁。 <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 第一种</span></span><br><span class="line"><span class="keyword">for</span> ...</span><br><span class="line">  <span class="keyword">if</span> it<span class="number">'</span>s ok:</span><br><span class="line">    row <span class="number">1</span></span><br><span class="line">    row <span class="number">2</span></span><br><span class="line">    ...</span><br><span class="line"><span class="comment">// 第二种</span></span><br><span class="line"><span class="keyword">for</span> ...</span><br><span class="line">  <span class="keyword">if</span> its<span class="number">'</span> <span class="keyword">not</span> ok:</span><br><span class="line">    <span class="keyword">continue</span></span><br><span class="line">  row <span class="number">1</span></span><br><span class="line">  row <span class="number">2</span></span><br><span class="line">  ...</span><br></pre></td></tr></table></figure></p></li>
+<li><p><strong>for loop | 对于for loop的executing过程的理解</strong>：</p>
+<p>首先initialize a iterate variable in the range of for loop，然后每次在执行loop内的内容时，都要先check condition（这个check意味着要执行condition这句）是否为true，即满足条件才会往内执行。执行完当前的loop内的内容后，update这个iterate variable，然后再判断是否满足条件，满足条件则继续进行；不满足则在update完后跳出。 <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//错误写法 - 可能会造成循环一直走不出而出现exceed memory limit error</span></span><br><span class="line"><span class="built_in">queue</span>&lt;TreeNode*&gt; q;</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; q.<span class="built_in">size</span>(); i++)&#123;</span><br><span class="line">  ... <span class="comment">//存在改变q.size()的操作</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//正确写法</span></span><br><span class="line"><span class="built_in">queue</span>&lt;TreeNode*&gt; q;</span><br><span class="line"><span class="keyword">int</span> n = q.<span class="built_in">size</span>(); <span class="comment">//这一步一定要单独拎出来！(在这种需要分层去traverse的情况下)</span></span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; n; i++)&#123;</span><br><span class="line">  ... <span class="comment">//存在改变q.size()的操作</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//因为如果直接写到for loop的condition，每次i update后都需要去check condition是否为true，同时就会执行q.size()，而实际上一次iteration内的操作改变了q的size，所以很可能出现=="loop本来应到此跳出时却因为size被enlarge了就继续执行下一次iteration"==的情况。</span></span><br></pre></td></tr></table></figure></p></li>
+</ol>
+<h2 id="ascii表">ASCII表</h2>
+<ul>
+<li>Capital Letters: A(65)-Z(90)</li>
+<li>Lower Letters: a(97)-z(122)</li>
+</ul>
+<p><img src="https://live.staticflickr.com/65535/49782612018_83a8417d40_o.png" style="zoom:40%"></p>
+<h2 id="string">String</h2>
+<ul>
+<li><p>如何判断两个字符串是否相等？ - 跟Python类似，C++也可以直接使用<code>==</code>比较字符串是否相等。 比如：<code>s1 == s2</code></p></li>
+<li><p>如何遍历字符串? <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">string</span> s = <span class="string">"Hello"</span>;</span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; s.<span class="built_in">size</span>(); ++i) &#123;</span><br><span class="line">    s[i] ...</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//或者</span></span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">char</span> c: s) &#123;</span><br><span class="line">    c...</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//跟上一种写法一样，但是此时改变c的值会同时改变原字符串(因为用了reference)</span></span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">char</span>&amp; c: s) &#123;</span><br><span class="line">   c...</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//其中s.size() 获取字符串的长度, 使用s[i]可以访问对应位置的字符。c++中的字符串是可变的，可以直接用s[i]=x的方式改变字符串。</span></span><br></pre></td></tr></table></figure></p>
+<ul>
+<li><code>string::back()</code> Returns a <strong>reference</strong> to the <strong>last character</strong> of the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a>. This function shall not be called on <a href="http://www.cplusplus.com/string::empty" target="_blank" rel="noopener">empty strings</a>.</li>
+<li><code>string::front()</code> Returns a <strong>reference</strong> to the <strong>first character</strong> of the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a>. Unlike member <a href="http://www.cplusplus.com/string::begin" target="_blank" rel="noopener">string::begin</a>, which returns an iterator to this same character, this function returns a direct reference.</li>
+<li><code>string::begin()</code> Returns an <strong>iterator</strong> pointing to the <strong>first character</strong> of the string.</li>
+<li><code>string::end()</code> Returns an <strong>iterator</strong> pointing to the <strong>past-the-end</strong> character of the string. ==The past-the-end character is a theoretical character that would follow the last character in the string. It shall not be dereferenced==.</li>
+<li><code>string::clear()</code> Erases the contents of the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a>, which becomes an <a href="http://www.cplusplus.com/string::empty" target="_blank" rel="noopener">empty string</a> (with a <a href="http://www.cplusplus.com/string::length" target="_blank" rel="noopener">length</a> of <code>0</code> characters).</li>
+<li><code>string::compare()</code> Compares the value of the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a> object (or a substring) to the sequence of characters specified by its arguments. The compared string is the value of the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a> object or -if the signature used has a <em>pos</em> and a <em>len</em> parameters- the substring that begins at its character in position <em>pos</em> and spans <em>len</em> characters. This string is compared to a comparing string, which is determined by the other arguments passed to the function. It returns 0 when they compare equal; &lt; 0 when ==Either the value of the first character that does not match is lower in the <em>compared string</em>, or all compared characters match but the <em>compared string</em> is shorter==; &gt; 0 when Either the value of the first character that does not match is greater in the <em>compared string</em>, or all compared characters match but the <em>compared string</em> is longer.
+<ol type="1">
+<li><code>str1.compare(str2)</code> 直接str1和str2比较</li>
+<li><code>str1.compare(6, 5, str2)</code> str1的(6 ~ 10)index的substring和str2比较</li>
+<li><code>str1.compare(6,5,str2,4,5)</code> str1的(6 ~ 10)index的substring和str2的(4 ~ 8)比较</li>
+</ol></li>
+<li><code>string::c_str()</code> Returns <strong>a pointer</strong> to <strong>an array that contains a null-terminated sequence of characters</strong> (i.e., a C-string) representing the current value of the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a> object. This array includes the same sequence of characters that make up the value of the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a> object <strong>plus an additional terminating null-character (<code>'\0'</code>) at the end</strong>.</li>
+<li><code>string::empty()</code> Returns whether the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a> is empty (i.e. whether its <a href="http://www.cplusplus.com/string::length" target="_blank" rel="noopener">length</a> is <code>0</code>).</li>
+<li><code>str.erase()</code> Erases part of the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a>, reducing its <a href="http://www.cplusplus.com/string::length" target="_blank" rel="noopener">length</a>:
+<ol type="1">
+<li><code>str.erase (10,8);</code> erase the substring starting from 10 and length is 8;</li>
+<li><code>str.erase (str.begin()+9);</code> erase index为9的char; <code>str.erase(str.end() - 1)</code>删掉str的最后一位char;</li>
+<li><code>str.erase (str.begin()+5, str.end()-9);</code> erase the substring from index为5(第6个) to index倒数第9</li>
+</ol></li>
+<li><code>string::find()</code> Searches the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a> for the first occurrence of the sequence specified by its arguments. When <em>pos</em> is specified, the search only includes characters at or after position <em>pos</em>, ignoring any possible occurrences that include characters before <em>pos</em>.
+<ol type="1">
+<li><code>str1.find(str2)</code> default pos is set to 0;</li>
+<li><code>str1.find(str2, pos, n)</code> n is Length of sequence of characters to match.</li>
+</ol></li>
+<li><code>string::insert()</code> Inserts additional characters into the <a href="http://www.cplusplus.com/string" target="_blank" rel="noopener">string</a> <strong>right before the character indicated by <em>pos</em></strong> (or <em>p</em>).
+<ol type="1">
+<li><code>string&amp; insert (size_t pos, const string&amp; str);</code></li>
+<li><code>insert (size_t pos, const string&amp; str, size_t subpos, size_t sublen)</code></li>
+</ol></li>
+</ul></li>
+</ul>
+<h3 id="vector">vector</h3>
+<ul>
+<li><code>v.insert(v.begin(), 5)</code></li>
+<li>return an empty vector: <code>return vector&lt;string&gt;();</code> 或者 <code>return {};</code></li>
+</ul>
+<h3 id="map-set">map &amp; set</h3>
+<ul>
+<li><strong>unordered_map</strong>
+<ul>
+<li><code>unordered_map&lt;int, int&gt;</code> 初始值为0。因为 int 不是类类型，所以会进行零值初始化。这类似于<code>vector&lt;int&gt;</code>在初始化一个数组时，假设没有填充一个特定的值，也是默认为0。</li>
+</ul></li>
+<li><strong>unordered_set</strong>
+<ul>
+<li><code>unordered_multiset</code> 与<code>unordered_set</code>的唯一区别：前者可以allow different elements to have equivalent values.</li>
+</ul></li>
+<li><strong>pair的使用</strong>： <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">// pair::pair example</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;utility&gt;      // std::pair, std::make_pair</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;string&gt;       // std::string</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;     // std::cout</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">  <span class="built_in">std</span>::pair &lt;<span class="built_in">std</span>::<span class="built_in">string</span>,<span class="keyword">double</span>&gt; product1;                     <span class="comment">// default constructor</span></span><br><span class="line">  <span class="built_in">std</span>::pair &lt;<span class="built_in">std</span>::<span class="built_in">string</span>,<span class="keyword">double</span>&gt; product2 (<span class="string">"tomatoes"</span>,<span class="number">2.30</span>);   <span class="comment">// value init</span></span><br><span class="line">  <span class="built_in">std</span>::pair &lt;<span class="built_in">std</span>::<span class="built_in">string</span>,<span class="keyword">double</span>&gt; product3 (product2);          <span class="comment">// copy constructor</span></span><br><span class="line"></span><br><span class="line">  product1 = <span class="built_in">std</span>::make_pair(<span class="built_in">std</span>::<span class="built_in">string</span>(<span class="string">"lightbulbs"</span>),<span class="number">0.99</span>);   <span class="comment">// using make_pair (move)</span></span><br><span class="line"></span><br><span class="line">  product2.first = <span class="string">"shoes"</span>; <span class="comment">//first和second分别是pair的两个field</span></span><br><span class="line">  product2.second = <span class="number">39.90</span>;</span><br><span class="line">  </span><br><span class="line">  <span class="built_in">std</span>::<span class="built_in">cout</span> &lt;&lt; <span class="string">"The price of "</span> &lt;&lt; product1.first &lt;&lt; <span class="string">" is $"</span> &lt;&lt; product1.second &lt;&lt; <span class="string">'\n'</span>;</span><br><span class="line">  <span class="built_in">std</span>::<span class="built_in">cout</span> &lt;&lt; <span class="string">"The price of "</span> &lt;&lt; product2.first &lt;&lt; <span class="string">" is $"</span> &lt;&lt; product2.second &lt;&lt; <span class="string">'\n'</span>;</span><br><span class="line">  <span class="built_in">std</span>::<span class="built_in">cout</span> &lt;&lt; <span class="string">"The price of "</span> &lt;&lt; product3.first &lt;&lt; <span class="string">" is $"</span> &lt;&lt; product3.second &lt;&lt; <span class="string">'\n'</span>;</span><br><span class="line">  <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="priority_queue">priority_queue</h3>
+<ul>
+<li>默认的是top()返回max，compare用的是less；如果compare换成greater，则返回min。</li>
+<li><code>front()</code> : return next element (按照priority的规则排序的)</li>
+<li><code>push()</code>: 插入一个element(要遵循priority的规则顺序)</li>
+<li><code>pop_back()</code>: delete the element returned by <code>front()</code></li>
+</ul>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">template</span>&lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> <span class="title">print_queue</span><span class="params">(T&amp; q)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">while</span>(!q.empty()) &#123;</span><br><span class="line">        <span class="built_in">std</span>::<span class="built_in">cout</span> &lt;&lt; q.top() &lt;&lt; <span class="string">" "</span>;</span><br><span class="line">        q.pop();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="built_in">std</span>::<span class="built_in">cout</span> &lt;&lt; <span class="string">'\n'</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">    <span class="built_in">std</span>::priority_queue&lt;<span class="keyword">int</span>&gt; q; <span class="comment">//top()返回的是max</span></span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> n : &#123;<span class="number">1</span>,<span class="number">8</span>,<span class="number">5</span>,<span class="number">6</span>,<span class="number">3</span>,<span class="number">4</span>,<span class="number">0</span>,<span class="number">9</span>,<span class="number">7</span>,<span class="number">2</span>&#125;) q.push(n); </span><br><span class="line">    print_queue(q);</span><br><span class="line"> </span><br><span class="line">    <span class="built_in">std</span>::priority_queue&lt;<span class="keyword">int</span>, <span class="built_in">std</span>::<span class="built_in">vector</span>&lt;<span class="keyword">int</span>&gt;, <span class="built_in">std</span>::greater&lt;<span class="keyword">int</span>&gt; &gt; q2; <span class="comment">//top()返回的是min</span></span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> n : &#123;<span class="number">1</span>,<span class="number">8</span>,<span class="number">5</span>,<span class="number">6</span>,<span class="number">3</span>,<span class="number">4</span>,<span class="number">0</span>,<span class="number">9</span>,<span class="number">7</span>,<span class="number">2</span>&#125;) q2.push(n);</span><br><span class="line">    print_queue(q2);</span><br><span class="line"> </span><br><span class="line">    <span class="comment">// Using lambda to compare elements.</span></span><br><span class="line">    <span class="keyword">auto</span> cmp = [](<span class="keyword">int</span> left, <span class="keyword">int</span> right) &#123; <span class="keyword">return</span> (left ^ <span class="number">1</span>) &lt; (right ^ <span class="number">1</span>);&#125;;</span><br><span class="line">    std::priority_queue&lt;int, std::vector&lt;int&gt;, decltype(cmp)&gt; q3(cmp);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> n : &#123;<span class="number">1</span>,<span class="number">8</span>,<span class="number">5</span>,<span class="number">6</span>,<span class="number">3</span>,<span class="number">4</span>,<span class="number">0</span>,<span class="number">9</span>,<span class="number">7</span>,<span class="number">2</span>&#125;) q3.push(n);</span><br><span class="line">    print_queue(q3);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="常考算法的经典题">常考算法的经典题</h2>
+<p>整理前几章的题目到对应的typora page</p>
+<h3 id="chapter-0-string相关">Chapter 0: String相关</h3>
+<ul>
+<li>Valid palindrome - 有不同类型的char混杂</li>
+<li>Valid palindrome II - 可以删掉一个</li>
+<li>Longest Palindrome - 只是计算最长的长度 - 用hashset/hashvector先存后删的方式来count</li>
+<li>Longest Palindromic Substring - expandAroundCenter + 超过max就记录max</li>
+<li>Subsets II - 基于dfs的backtracking + 限制条件以避免重复解</li>
+</ul>
+<h3 id="chapter-1-bfs">Chapter 1: BFS</h3>
+<p><strong>主要应用分为：二叉树(tree)上的 BFS; 图(graph)上的 BFS; 矩阵上的 BFS; 拓扑排序 Topological Sorting。</strong> - Binary Tree Level Order Traversal - 利用BFS在traverse tree的时候的分层特性 - Serialize and Deserialize Binary Tree - serialize和deserialize都可以用BFS来实现，且是逆过程。==DFS(待implement)== - Clone Graph - 用bfs/dfs都行，关键在于是要借助于新老nodes之间的mapping来是实现deep copy - Word Ladder - 用bfs，关键在于要搞清楚在哪记录已经visit过的node(string) - Number of islands - bfs或者dfs，建议用bfs，因为dfs可能会很深导致stack overflow；==Union Find并查集(待implement)== - Course Schedule - 基于bfs或者dfs的topological sorting；==dfs待review== - Knight Shortest Path - simple graph里基于bfs - 双向BFS优化的解法 - Topological Sorting - general的拓扑排序求解合适的order - Sequence Reconstruction - 判断是不是有且只有一个合适的topological order</p>
+<p><strong>遗留问题</strong>：</p>
+<ul>
+<li>Tological Sorting based on DFS</li>
+<li>如何自己实现一个队列（queue）？分别用vector和LinkedList</li>
+<li>用bfs实现：非递归的方式找所有方案</li>
+<li>如果问最长路径，则要用Dynamic Programming。分层：走到第i层一定会经过第i - 1层。不可以分层：DFS。</li>
+<li>Union Find</li>
+<li>一道题：Alien Directionary</li>
+<li>ppt上的related problems</li>
+<li>随课教程的补充内容自学：另外两种宽度优先搜索算法。Bidirectional BFS。</li>
+</ul>
+<h3 id="chapter-3-binary-search">Chapter 3: Binary Search</h3>
+<ul>
+<li>Classical Binary search - 在sorted array里找到any target position</li>
+<li>First position of target - 重点移right</li>
+<li>First Bad Version - 和上一题同样的思路</li>
+<li>Last position of target - 重点移left</li>
+<li>Search in a big sorted array - 用exponential backoff去找到合适的范围</li>
+<li>Find k closest elements - binary search定范围，然后背向two pointers按order append</li>
+<li>Find Minimum in Rotated Sorted Array - <strong>"断崖式Array"</strong> - 转换为find the first number smaller than target(<strong>last number</strong>)</li>
+<li>Search in Rotated Array - <strong>"断崖式Array"</strong> 思路1：基于上一题的思路，先确定division的位置，再确定target应该在的那一半range；然后用binary search；思路2：直接binary search，但是在移left和right的时候需要分在左半range和右半range两种情况的讨论。</li>
+<li>Maximum Number in Mountain Sequence - <strong>"Mountain Array"</strong> 用 '增' 或者 '减' 作为判断条件的binary search</li>
+<li>Find (any) peak element - <strong>"Mountain Array"</strong> 和上题同样的思路</li>
+<li>Fast Power / Pow(x, n)- "快速幂算法" - 借用bianry search的思想</li>
+</ul>
+<h3 id="chapter-4-binary-tree">Chapter 4: Binary Tree</h3>
+<p>主要是Traversal和Divide &amp; Conquer的解题思想。 - Minimum Subtree - 累赘地分步走(多写helper function咯); ResultType包装return值; Private fields / reference（需要这种全局性的比较）; - Binary Tree Paths - Divide &amp; conquer; traverse (NOT USE reference to avoid backtrack actively); - Lowest Common Ancestor - 多几个helper function做了重复遍历；one-time traverse but use divide &amp; conquer; - Lowest Common Ancestor III - one-time traverse &amp; use divide &amp; conquer &amp; RestultType; - Flattern Binary Tree to Linked List -</p>
+<h3 id="chapter5-two-pointers">Chapter5: Two Pointers</h3>
+<h3 id="chapter-6-implicit-graph-dfs">Chapter 6: Implicit Graph DFS</h3>
+<ul>
+<li>Subsets - 是否需要去重</li>
+<li>Combination Sum - 相当于是subsets + sum限制剪枝 - 每个数是否可以重复使用 - 是否避重</li>
+<li>k Sum II - 相当于combination sum + k 限制剪枝</li>
+<li>Permutation类问题 - 两种解法：dfs backtrack + record visited status; non-recursion的get_next_permutation（需要记忆）</li>
+<li>N-Queens 八皇后问题 - 记录一个对应于board size的矩阵，来记录各个node的访问状态，在recur之前根据the previous queen position来update整个status board。</li>
+<li>Letter Combinations of a Phone Number - 很典型的dfs问题（只不过implicit）</li>
+<li>找all possible solutions之类的问题
+<ul>
+<li>Split String：典型的dfs，search的每一步有多个选择，这也是dfs的意义：对于每一步来说，每一个选择都试一下，后面找不通了，回来试下一个选择。</li>
+<li>Word Pattern II：pattern的char和str的substr对应。 -</li>
+<li>Word Ladder II：既需要找到all solutions，而且要求shortest。- bfs限定shortest condition + dfs搜寻all possible solutions.</li>
+</ul></li>
+</ul>
+<p><strong>遗留问题</strong>：</p>
+<ul>
+<li>涉及到trie结构的解法，解决hashmap可以解决的问题</li>
+<li>教程</li>
+</ul>
+<h3 id="chapter7-hashheap">Chapter7: Hash/Heap</h3>
+<ul>
+<li><strong>LRU cache</strong> - doubly linked list + hashmap (num to node)</li>
+<li><strong>Insert Delete GetRandom O(1)</strong> - vector + hashmap (num to index)</li>
+<li><strong>First unique number in datastream</strong> - doubly linked list + hashmap (num to node) + hashmap (num to freq) to remove duplicates / hashset (recording duplicates -&gt; then we can choose not to add the number if already exists in duplicates hashset)</li>
+<li><strong>First unique char in string</strong> - 和上一题完全一样的做法，只不过换成了char和string。</li>
+<li><strong>Heapify</strong> - siftDown for every element of the array</li>
+<li><strong>Ugly Number II</strong> - minHeap(always use the min number to generate next batch of ugly numbers) + hashset(recording visited number)
+<ul>
+<li><strong>K Closest Points</strong> - maxHeap / HeapSort</li>
+<li><strong>Top K Largest Numbers</strong> - minHeap / HeapSort / QuickSort</li>
+<li><strong>Top K Largest Numbers</strong> - minHeap</li>
+<li><strong>Merger K Sorted Lists</strong> - quick sort all vals + recreating all nodes / recreating all nodes in the order of 打擂台 / minHeap / mergeSort</li>
+<li><strong>Moving Average from Data Stream</strong> - queue with limited maxsize to store data</li>
+<li><strong>Implement stack by Two Queues</strong></li>
+<li><strong>Implement queue by Two Stacks</strong></li>
+</ul></li>
+</ul>
+<p><strong>遗留问题</strong></p>
+<ul>
+<li>LRU cache - singly linked list version</li>
+<li>Load balancer</li>
+<li>Insert Delete GetRandom O(1) - with duplicates</li>
+<li>First number in data stream II - with duplicates</li>
+<li><strong>Moving Average from Data Stream</strong> - 前缀解法 / 滚动窗口解法</li>
+</ul>
+<h3 id="chapter8-memoization-search-dp">Chapter8: Memoization Search &amp; DP</h3>
+<ul>
+<li>Triangle</li>
+<li>Wildcard Matching - '*' can be any char sequence.</li>
+<li>Regular Expression Matching - '*' can repeat the preceding char zero or more times.</li>
+<li>Word Pattern II - 只是为了说明不可以用memoization的情况</li>
+<li>Word Break (可行性) - pure DFS / DFS + memoization + maxLen prunning / DP</li>
+<li>Word Break II (all possible solutions) - DFS + memoization / DFS + dp-prunning</li>
+<li>Word Break III (方案总数) DFS + memoization / pure DP</li>
+<li>Palindrome Partitioning - 和Word Break II非常相似，前者是check word是否在dict里，而这题是check word是否是palindrome.</li>
+<li>Stone Game - 区间型DP</li>
+</ul>
+<p><strong>遗留问题</strong>：</p>
+<ul>
+<li>Regular Expression Matching需要复习</li>
+<li>区间型的Stone Game需要复习</li>
+<li>背包型</li>
+<li>序列型的Decode ways 和 双序列型的 Longest Common Subsequence &amp; Edit Distance</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Coding Practice</category>
+      </categories>
+      <tags>
+        <tag>algorithm</tag>
+        <tag>data structure</tag>
+      </tags>
   </entry>
   <entry>
     <title>宽度优先搜索(BFS) | 性价比很高</title>
@@ -315,5 +539,90 @@ l &amp;= m - n \label{eq5}
         <tag>data structure</tag>
         <tag>BFS</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Duke Master Experience</title>
+    <url>/2020/04/15/master@duke/</url>
+    <content><![CDATA[<p>Here is a simple overview of my study and life experience at Duke University, during which I've been pursuing my Master degree. Two Years is actually very short. Lots of regret though.</p>
+<a id="more"></a>
+<h2 id="a-bit-background">A bit Background</h2>
+<p>I finished my undergraduate study at Sun Yat-Sen University in Guangzhou (China) in 2018 and got admitted into Duke luckily. - Undergraduate Major: Energy and Dynamics Engineering - Master Major: Mechanical Engieering (Robotics Track)</p>
+<figure>
+<img src="https://live.staticflickr.com/65535/49781871483_7d80819d0e_o.jpg" alt="" /><figcaption>duke chapel from Our State Magazine</figcaption>
+</figure>
+<h2 id="timeline">Timeline</h2>
+<h3 id="fall-aug---dec">2018 Fall (Aug - Dec)</h3>
+<ul>
+<li>ME627 - Linear Systems Theory (core)</li>
+<li>ECE551 - Programming, Data Structures, and Algorithms in C++ (core)</li>
+<li>MATH541 - Applied Stochastic Process (Math)</li>
+</ul>
+<h3 id="winter-vacation">2018 Winter Vacation</h3>
+<ul>
+<li>Move to live with a local christian church</li>
+<li>One-Week Trip at LA with Yellow</li>
+<li>One-Week Deep Learning Course (like a very short-term workshop)</li>
+</ul>
+<h3 id="spring-jan---may">2019 Spring (Jan - May)</h3>
+<ul>
+<li>CS527 - Computer Vision (core)</li>
+<li>STA561 - Probabilistic Machine Learning (elective)</li>
+<li>ME555: Advanced Robotics System Design (core)</li>
+<li>Summer Internship Searching</li>
+</ul>
+<h3 id="summer-vacation">2019 Summer Vacation</h3>
+<ul>
+<li>Summer Internship @ Aqueti in Kunshan, nearby DKU</li>
+</ul>
+<h3 id="fall-aug---dec-1">2019 Fall (Aug - Dec)</h3>
+<ul>
+<li>ECE590: Smart Camera (elective)</li>
+<li>ECE588: Image Video Procession (elective)</li>
+<li>CS671: Machine Learning (core)</li>
+<li>Indepdent Study with Dr. David Brady (elective)</li>
+<li>Full-time Job Searching</li>
+</ul>
+<h3 id="spring-jan---now">2020 Spring (Jan - NOW)</h3>
+<ul>
+<li>Continue Full-time Job Searching</li>
+<li>Graduate Poster-based Project</li>
+<li>Visa Application for My Potential Career</li>
+<li>Stay at Home due to COVID-19</li>
+</ul>
+<h2 id="what-i-did-well">What I did well</h2>
+<ul>
+<li>overcame the gap from traditional engineering that I don't like to software-related engineering field that I think I can do well</li>
+<li>adapted well into living a western-style life</li>
+<li>met some nice friends</li>
+<li>well.... (I'll fill up later)</li>
+</ul>
+<h2 id="what-i-did-not-well">What I did not well</h2>
+<ul>
+<li>did not prepare well or grab enough information before arriving at Duke</li>
+<li>got lagged behind while compared with other peers</li>
+<li>got upset easily in front of interview failures</li>
+</ul>
+<h2 id="goals-in-april">Goals in April</h2>
+<ul>
+<li>maintain and improve my personal website apperance and functionalities</li>
+<li>udacity - becoming MLE</li>
+<li>udacity - a/b testing</li>
+<li>coursera nlp</li>
+<li>stanford nlp cs224</li>
+<li>spark projects review</li>
+<li>hadoop projects review</li>
+<li>九章算法强化班</li>
+<li>九章系统设计班</li>
+</ul>
+<p><strong>Let's see what I'll be up to in May......</strong></p>
+<h2 id="some-resume-experience-backup">Some Resume Experience Backup</h2>
+<ul>
+<li>Connected Vehicles on Traditional Traffic Flow (Feb/2018 - May/2018)
+<ul>
+<li><strong>Model Parameters Calibration:</strong> Calibrated Intelligent Driver Model and Cooperative Intelligent Driver Model that characterizes the car-following dynamics of Human-driven Vehicle (HV) and Connected Vehicle (CV) respectively.</li>
+<li><strong>Numeric Simulation &amp; Parameter Tuning</strong>: Utilized Matlab to numerically simulate dynamics of HVs and CVs running on a one-way straight road; Tuned parameters related to cooperative strategy among CVs to maximize the positive effects.</li>
+</ul></li>
+</ul>
+]]></content>
   </entry>
 </search>
